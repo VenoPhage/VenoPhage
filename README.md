@@ -32,6 +32,6 @@ Welcome to my github, only a handful of projects here maybe you'll find them som
 
 ### 📊 Stats
 
-[![Veno's GitHub stats](https://github-readme-stats.vercel.app/api?username=venophage)](https://github.com/anuraghazra/github-readme-stats)
+[![Veno's GitHub stats](https://github-readme-stats-rho-gray-61.vercel.app/api?username=venophage)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
