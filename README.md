@@ -18,12 +18,7 @@ Welcome to my github, only a handful of projects here maybe you'll find them som
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![ExpertNugget Live Stream](https://ytcards.demolab.com/?id=EjWVe5nxo5o&title=ExpertNugget+Live+Stream&lang=en&timestamp=1744831387&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "ExpertNugget Live Stream")](https://www.youtube.com/watch?v=EjWVe5nxo5o)
-[![Colors (Very Normal)](https://ytcards.demolab.com/?id=yjHsvWGJVVM&title=Colors+%28Very+Normal%29&lang=en&timestamp=1695095788&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20 "Colors (Very Normal)")](https://www.youtube.com/watch?v=yjHsvWGJVVM)
-[![DayZ is a horror game???](https://ytcards.demolab.com/?id=vuCMHd2cQV8&title=DayZ+is+a+horror+game%3F%3F%3F&lang=en&timestamp=1671816168&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=301 "DayZ is a horror game???")](https://www.youtube.com/watch?v=vuCMHd2cQV8)
-[![Canyon Battle FPS](https://ytcards.demolab.com/?id=IaEJhf7LoCM&title=Canyon+Battle+FPS&lang=en&timestamp=1661814229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62 "Canyon Battle FPS")](https://www.youtube.com/watch?v=IaEJhf7LoCM)
-[![really no idea why it crashed](https://ytcards.demolab.com/?id=yxaezaL1um8&title=really+no+idea+why+it+crashed&lang=en&timestamp=1618924197&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=61 "really no idea why it crashed")](https://www.youtube.com/watch?v=yxaezaL1um8)
-[![Gaming room tour](https://ytcards.demolab.com/?id=-_XX5fDJhIY&title=Gaming+room+tour&lang=en&timestamp=1613842976&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19 "Gaming room tour")](https://www.youtube.com/shorts/-_XX5fDJhIY)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@expertnugget?sub_confirmation=1)
